@@ -1,0 +1,30 @@
+newmtl container
+Ka 0.1 0.1 0.1
+Kd 0.7 0.4 1.2
+Ks 0.5 0.5 0.5
+Ns 32
+d 1.0
+illum 2
+map_Kd container2.png
+map_Ks container2_specular.png
+map_bump container2_normal.png
+
+newmtl plane
+Ka 0.1 0.1 0.1
+Kd 0.4 0.4 0.4
+Ks 0.5 0.5 0.5
+Ns 32
+d 1.0
+illum 2
+map_Kd wood.jpg
+map_Ks wood_specular.jpg
+map_bump wood_normal.jpg
+
+newmtl light
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ke 3.0 3.0 3.0
+Ns 32
+d 1.0
+illum 2

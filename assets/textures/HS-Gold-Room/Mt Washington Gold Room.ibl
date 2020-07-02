@@ -1,0 +1,43 @@
+[Header]
+ICOfile = "Mt-Washington-Gold-Room_Thumb.jpg"
+Name = "Mt Washington Gold Room"
+Author = "HDRSource"
+Location = "White Mountains, New Hampshire"
+Comment = "room, dining room, dining, chandalier, table, gold room, lights, hotel, mount washington"
+GEOlat = 44.1569999999999960
+GEOlong = -71.5819999999999940
+Link = "http://www.hdrsource.com/"
+Date = "2009:10:12"
+Time = "10:15:00"
+
+[Background]
+BGfile = "Mt-Washington-Gold-Room_Bg.jpg"
+BGmap = 1
+BGu = 0.000000
+BGv = 0.000000
+BGheight = 4000
+
+[Enviroment]
+EVfile = "Mt-Washington-Gold-Room_Env.hdr"
+EVmap = 1
+EVu = 0.000000
+EVv = 0.000000
+EVheight = 180
+EVmulti = 1.000000
+EVgamma = 2.456140
+
+[Reflection]
+REFfile = "Mt-Washington-Gold-Room_Ref.hdr"
+REFmap = 1
+REFu = 0.000000
+REFv = 0.000000
+REFheight = 1600
+REFmulti = 1.000000
+REFgamma = 2.175439
+
+[Sun]
+SUNcolor = 255,255,255
+SUNmulti = 0.200000
+SUNu = 0.506000
+SUNv = 0.352000
+

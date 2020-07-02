@@ -1,0 +1,56 @@
+newmtl mesh1
+Kd 0.7 0.4 1
+Ns 32
+Ks 0.5 0.5 0.5
+bump 0.5 0.5 1
+Ka 0.1 0.1 0.1
+d 1.0
+illum 2
+newmtl mesh2
+Kd 0.4 0.4 0.4
+Ns 32
+Ks 0.5 0.5 0.5
+bump 0.5 0.5 1
+Ka 0.1 0.1 0.1
+d 1.0
+illum 2
+newmtl mesh3
+Ks 1 1 1
+bump 0.5 0.5 1
+Ka 0.283077 0.283074 0.283074
+Kd 0.889231 0.83542 0.566372
+Ns 32
+d 1.0
+illum 2
+newmtl mesh4
+Ks 1 1 1
+bump 0.5 0.5 1
+Ka 0.166152 0.166154 0.166154
+Kd 0.612308 0.612302 0.612302
+Ns 32
+d 1.0
+illum 2
+newmtl mesh5
+Ks 1 1 1
+bump 0.5 0.5 1
+Ka 0.138462 0.13846 0.13846
+Kd 1 1 1
+Ns 32
+d 1.0
+illum 2
+newmtl mesh6
+Ks 1 1 1
+bump 0.5 0.5 1
+Ka 0.107692 0.107691 0.107691
+Kd 0 0 0.737255
+Ns 32
+d 1.0
+illum 2
+newmtl mesh7
+Ks 1 1 1
+bump 0.5 0.5 1
+Ka 0.141538 0.141537 0.141537
+Kd 1 0 0
+Ns 32
+d 1.0
+illum 2
